@@ -8,6 +8,6 @@
 ### Module list
 -   |Module name| Mark|  
     |---|---|
-    |[Operating system & concurrency]()| 94|
+    |[Operating system & concurrency](https://github.com/Georgelingzj/UON_secondyear_record/tree/main/OSC)| 94|
     |Developing maintainable software| 72|
 
