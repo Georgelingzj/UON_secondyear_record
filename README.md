@@ -13,10 +13,12 @@
 
 
 #### Operating system & concurrency
+- Apart from processSimulator.c and test.html, other auxiliary files were provided by Dr Geert de Maere
 - Run my Code
     - gcc processSimulator.c coursework.c linkedlist.c  -o processSimulator -std=gnu99 -lpthread
     - ./processSimulator | grep "SVG:" | sed -e 's/SVG: //g' > test.html
     - open test.html in local browser
 
-- Example 
+- Example
+    - ![img](https://github.com/Georgelingzj/UON_secondyear_record/blob/main/img/osc_1.png)
    
