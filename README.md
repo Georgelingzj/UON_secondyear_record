@@ -12,13 +12,13 @@
     |Developing maintainable software| 72|
 
 
-#### Operating system & concurrency
+#### Operating system & concurrency(Get 100/100 for coursework)
 - Apart from processSimulator.c and test.html, other auxiliary files were provided by Dr Geert de Maere
 - Run my Code
     - gcc processSimulator.c coursework.c linkedlist.c  -o processSimulator -std=gnu99 -lpthread
     - ./processSimulator | grep "SVG:" | sed -e 's/SVG: //g' > test.html
     - open test.html in local browser
 
-- Example
+- Example output
     - ![img](https://github.com/Georgelingzj/UON_secondyear_record/blob/main/img/osc_1.png)
    
